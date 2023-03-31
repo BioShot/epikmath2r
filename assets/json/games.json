@@ -1,0 +1,63 @@
+
+{
+    "author": "BioShot aka Levi A.",
+    "message": "Sorry yall no big update this weekend I gotta go somewere ~Levi. A Do I really have to put my name here. yall know i made this... eh who cares.",
+    "gamesList": [
+        {
+            "name": "retro-bowl",
+            "icon": "rb.png"
+        },
+        {
+            "name": "geometry-dash",
+            "icon": "gd.png"
+        },
+        {
+            "name": "osu",
+            "icon": "osu.png"
+        },
+        {
+            "name": "earthbound",
+            "icon": "earthbound.jpg"
+        },
+      {
+            "name": "subway-surfers",
+            "icon":"ss.png"
+      },
+      {
+            "name": "Hoops",
+            "icon":"hoops.png"
+      },
+      {
+            "name": "pixel-speedrun",
+            "icon":"pixel-speedrun.jfif"
+      },
+      {
+            "name":"retro-basketball",
+            "icon":"rbb.png"
+      },
+      {
+            "name":"onevonelol",
+            "icon":"1v1.png"
+      },
+      {
+	    "name":"msc2",
+	    "icon":"msc.jpg"
+      },
+      {
+      	    "name":"capcut",
+	    "icon":"capcut.png"
+      },
+      {
+            "name":"minecraft",
+	      "icon":"minecraft.jpg"
+      },
+      {
+        "name":"slope",
+        "icon":"slope.png"
+      },
+      {
+	    "name":"lozlttp",
+	    "icon":"lozlttp.png"
+      }
+]
+}
